@@ -39,10 +39,10 @@ body{
     animation: obstacleAni 3s linear infinite;
 }
 .gameover{
-    position:relative;
-    top:100px;
-    left:500px;
-    font-size:  70px;
+    position: relative;
+    top: 100px;
+    left: 450px;
+    font-size: 70px;
     font-family: Papyrus;
 }
 #scoreCont{
@@ -63,7 +63,7 @@ body{
        bottom: 0;
     }
     50%{
-        bottom: 500px;
+        bottom: 900px;
     }
     100%{
         bottom: 0;
