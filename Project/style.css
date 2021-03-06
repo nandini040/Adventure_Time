@@ -40,7 +40,7 @@ body{
 }
 .gameover{
     position:relative;
-    top:50px;
+    top:100px;
     left:500px;
     font-size:  70px;
     font-family: Papyrus;
