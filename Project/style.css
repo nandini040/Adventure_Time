@@ -17,8 +17,8 @@ body{
     background-image: url("women.png");
     background-repeat: no-repeat;
     background-size: cover;
-    width: 50px;
-    height:70px;
+    width: 180px;
+    height: 200px;
     position: absolute;
     bottom:0;
     left:20px
@@ -26,8 +26,8 @@ body{
 .obstacle{
      background-image: url("obstacle.png");
      background-size: cover;
-     width: 100px;
-     height: 80px;
+     width: 200px;
+     height: 180px;
      position:absolute;
      bottom:0;
      left:80vw;
@@ -46,14 +46,16 @@ body{
     font-family: Papyrus;
 }
 #scoreCont{
-    position:absolute;
-    color:rgb(55, 224, 21);
-    font-family:  Tahoma;
-    left:450px;
-    top:10px;
-    border:2px solid black;
-    padding:1px; 
-    border-radius: 10px;
+    position: absolute;
+    color: rgb(55, 224, 21);
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 30px;
+    top: 20px;
+    left: 1090px;
+    border: 10px solid black;
+    padding: 20px;
+    border-radius: 20px;
 }
 
 @keyframes dino{
