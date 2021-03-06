@@ -41,8 +41,8 @@ body{
 .gameover{
     position:relative;
     top:50px;
-    left:160px;
-    font-size:  30px;
+    left:500px;
+    font-size:  70px;
     font-family: Papyrus;
 }
 #scoreCont{
@@ -63,7 +63,7 @@ body{
        bottom: 0;
     }
     50%{
-        bottom: 200px;
+        bottom: 500px;
     }
     100%{
         bottom: 0;
