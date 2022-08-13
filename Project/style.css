@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-color: rgb(20, 20, 20);
+    color: rgb(2, 4, 49);
     overflow: hidden;
 }
 .gameContainer{
@@ -40,10 +40,11 @@ body{
 }
 .gameover{
     position: relative;
-    top: 100px;
-    left: 450px;
-    font-size: 70px;
+    top: 150px;
+    left: 480px;
+    font-size: 80px;
     font-family: Papyrus;
+    font-weight: bolder;
 }
 #scoreCont{
     position: absolute;
@@ -52,7 +53,7 @@ body{
     font-weight: bold;
     font-size: 30px;
     top: 20px;
-    left: 1090px;
+    left: 1260px;
     border: 10px solid black;
     padding: 20px;
     border-radius: 20px;
